@@ -1,0 +1,26 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "The JavaScript template",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "parcel": "^2.0.0",
+    "postcss": "^8.5.6",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17"
+  },
+  "keywords": [
+    "css",
+    "javascript"
+  ],
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
